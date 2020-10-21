@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515649528414",
+    "firebase_url": "https://figgy-8d205.firebaseio.com",
+    "project_id": "figgy-8d205",
+    "storage_bucket": "figgy-8d205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515649528414:android:5029d11cc4c28c2e7a0acf",
+        "android_client_info": {
+          "package_name": "com.figgy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515649528414-v21psomg18e0om45ltn1uq2q8oriovmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD70nBzA_Zp0-5VhVckAWO-LyRi4-gb2V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515649528414-v21psomg18e0om45ltn1uq2q8oriovmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
